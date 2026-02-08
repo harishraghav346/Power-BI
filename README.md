@@ -10,11 +10,11 @@ This project analyzes inventory data across multiple warehouses to address two c
 ## 📷 Dashboard Screenshots
 
 ### 1. Supply Chain Control Center (Executive View)
-![Executive Dashboard](............)
+![Executive Dashboard](screenshots/Screenshot 2026-02-08 120234.png)
 *Provides a high-level health check: **$89.57M** in total inventory value, **15,000** stockouts, and a **76%** overstock rate.*
 
 ### 2. Action Center (Replenishment & Optimization)
-![Action Center](******)
+![Action Center](Screenshot 2026-02-08 120400.png)
 *A split-view operational tool: The **Left Panel** lists products requiring immediate reordering (Low Stock), while the **Right Panel** identifies "Cash Traps" (High Holding Cost items) for liquidation.*
 
 ## 🔑 Key Insights
